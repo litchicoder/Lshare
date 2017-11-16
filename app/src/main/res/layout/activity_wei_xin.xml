@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.liujicheng.lsharepro.WeiXinActivity">
+
+    <!--<editor-fold desc="Description">-->
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="会话"
+            tools:layout_editor_absoluteX="61dp"
+            tools:layout_editor_absoluteY="36dp"
+            android:onClick="onRadioButtonClick"/>
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="朋友圈"
+            tools:layout_editor_absoluteX="221dp"
+            tools:layout_editor_absoluteY="36dp"/>
+    </RadioGroup>
+
+    <!--</editor-fold>-->
+
+    <Button
+        android:id="@+id/button_wx_text"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:text="单文本"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="137dp"/>
+
+
+    <Button
+        android:id="@+id/button_wx_image"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:text="单图片"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="209dp"/>
+
+
+</LinearLayout>

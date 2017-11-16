@@ -1,0 +1,35 @@
+apply plugin: 'com.android.library'
+
+
+android {
+    compileSdkVersion 26
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+
+        //这里的配置防止构建时报错，真是值回配置在主build文件中，构建合并后替换掉这里的值
+        manifestPlaceholders = [SHARE_WX_APP_ID: "wx"]
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:1.1.6'
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+}

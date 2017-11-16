@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liujicheng/Downloads/WeChatSDK_sample_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee090f1ffc339dc2321169a4d12efe714afcba17">
+        <dex dex="/Users/liujicheng/Downloads/WeChatSDK_sample_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_17a08cf6bf395cd73e6f7293b320b936c502b1e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liujicheng/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.1.6/3973d7856aaa0b1a329c2508d0252dfa27bc6780/wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3973d7856aaa0b1a329c2508d0252dfa27bc6780">
+        <dex dex="/Users/liujicheng/Downloads/WeChatSDK_sample_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/wechat-sdk-android-with-mta-1.1.6_711fb8034f6415620f3b2d88d04beca75f990dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liujicheng/Downloads/WeChatSDK_sample_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/liujicheng/Downloads/WeChatSDK_sample_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38f33958baf4e4a40ca4084c5883f70374831592/classes.dex" />
+    </item>
+
+</items>

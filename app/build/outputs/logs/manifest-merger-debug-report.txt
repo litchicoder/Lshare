@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5ae9fcd3a21ade778b8ef3da920fc2f2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:9:5-80
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:12:5-75
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:13:5-74
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-75
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:14:5-78
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:15:22-77
+application
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:17:5-35:19
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-29:19
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5ae9fcd3a21ade778b8ef3da920fc2f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5ae9fcd3a21ade778b8ef3da920fc2f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:21:9-40
+activity#net.sourceforge.simcpux.WeiXinActivity
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:23:9-30:20
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:23:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:28:27-74
+activity#net.sourceforge.simcpux.wxapi.WXEntryActivity
+ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:31:9-34:74
+	android:exported
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:33:13-36
+	android:theme
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml:32:13-50
+uses-sdk
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5ae9fcd3a21ade778b8ef3da920fc2f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5ae9fcd3a21ade778b8ef3da920fc2f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MOUNT_FORMAT_FILESYSTEMS
+ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:22-80
+meta-data#SHARE_WX_APP_ID
+ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-23:34
+	android:value
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-31
+	android:name
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-43
+activity#com.example.lsharelib.wxapi.BaseWXEntryActivity
+ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:9-28:75
+	android:exported
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from [:lsharelib] /Users/liujicheng/Downloads/WeChatSDK_sample_Androids/lsharelib/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/848cbd2f41ef6ebcc5915e5b1d1ccbb0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7fd5567edd7eaf910f7a44e38bb5c0cd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5454dab37e615ce82ad2704f03b37551/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61becc8eef5f915c79edb3618840fb37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ae3ce1568c5de25f93d1e784406dc3fa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a244c22daf2968b5996e99df6a4dd0c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/69255b829c448b058e3dad54563cbd44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9258b38f1679e1f91e74c3fed69cb22/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/188d07fa8c43c6ee455af443d26e7619/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/liujicheng/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/422586f14fd95e9ac641877276ae8d9a/AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Wed Nov 15 14:47:56 CST 2017
+base.0=/Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/liujicheng/Downloads/WeChatSDK_sample_Androids/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
